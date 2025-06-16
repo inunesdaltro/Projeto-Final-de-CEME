@@ -6,15 +6,6 @@ O objetivo principal deste código é automatizar a análise de dados de um moto
 
 Este projeto consiste em um estudo de caso realizado para a disciplina de **Conversão de Energia e Máquinas Elétricas (ENE0469)** da Universidade de Brasília (UnB). O objetivo é analisar o desempenho operacional de um conjunto motor-bomba no sistema de água gelada do Hospital Sarah Kubitschek, utilizando dados reais medidos em campo e dados nominais dos equipamentos.
 
-A análise revelou uma condição de operação crítica e perigosa, onde o motor elétrico se encontra drasticamente subdimensionado para a carga, operando em um regime de sobrecarga severa e contínua.
-
-## Principais Descobertas
-
-* **Motor Identificado:** WEG W22 de **15 kW (20 CV)**.
-* **Consumo Elétrico Medido:** O motor consome em média **48.51 kW** de potência ativa.
-* **Diagnóstico Crítico:** O motor opera com uma **sobrecarga de aproximadamente 300%** de sua capacidade nominal.
-* **Fator Agravante:** O sistema apresenta um **baixo fator de potência médio de 0.69**, o que aumenta a corrente de linha e o estresse térmico sobre o sistema.
-* **Conclusão:** A condição de operação representa um **risco iminente de falha catastrófica** do motor, exigindo intervenção imediata da equipe de manutenção.
 
 ## Estrutura do Repositório
 
